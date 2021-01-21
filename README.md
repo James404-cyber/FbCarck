@@ -36,7 +36,7 @@ $ git clone https://github.com/James404-cyber/FbCarck.git
 
 $ cd FbCrack
 
-$ python2 hackGroup.py
+$ python hackGroup.py
 ```
 
 # Single Command 
