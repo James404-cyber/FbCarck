@@ -44,6 +44,6 @@ $ python2 hackGroup.py
 ```
 pkg update && pkg upgrade ; pkg install git curl python ; pkg install ruby ; gem install lolcat ; pip install mechanize requests bs4 futures ; pip install colorama ; git clone https://github.com/James404-cyber/FbCarck.git ; cd FbCrack ; python2 hackGroup.py
 ```
-â€¢ TOOL USER : (NO NEEDED)</br>
-â€¢ TOOL PASS : (NO NEEDED</br>
+¢ TOOL USER : (NO NEEDED)</br>
+¢ TOOL PASS : (NO NEEDED</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
